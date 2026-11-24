@@ -29,7 +29,7 @@
 # - Dev moves story to 'review', then runs code-review (fresh context, different LLM recommended)
 # - Retrospective appends its action items to action_items; the status view surfaces open ones
 generated: 11-24-2026 22:13
-last_updated: 11-24-2026 22:35
+last_updated: 11-24-2026 23:40
 project: bmad-incident-tracker
 project_key: NOKEY
 tracking_system: file-system
@@ -38,7 +38,7 @@ story_location:
 development_status:
   epic-1: in-progress
   1-1-scaffold-vite-react-typescript-app: review
-  1-2-github-actions-ci-and-pages-deploy: backlog
+  1-2-github-actions-ci-and-pages-deploy: review
   epic-1-retrospective: optional
 
   epic-2: backlog
